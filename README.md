@@ -5,7 +5,6 @@
 
 Here are some ideas to get you started:
 
--->
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -15,4 +14,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+
+- 🔭 I’m currently working on GitOps 
+- 🌱 I’m currently learning Backstage IDP
 
