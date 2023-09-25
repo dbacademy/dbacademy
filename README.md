@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on GitOps 
+- 🔭 I’m currently enjoying fun in implementing GitOps 
 - 🌱 I’m currently learning Backstage IDP
 
