@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently enjoying fun in implementing GitOps 
+- 🔭 Having fun in implementing GitOps.. but way to go :man_pilot:
 - 🌱 I’m currently learning Backstage IDP
 
