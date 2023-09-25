@@ -19,4 +19,3 @@ Here are some ideas to get you started:
 - 🔭 Having fun in implementing GitOps.. but way to go :man_pilot:
 - 🌱 I’m currently learning Backstage IDP
 
-:linkedin 
