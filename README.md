@@ -19,7 +19,4 @@ Here are some ideas to get you started:
 - 🔭 Having fun in implementing GitOps.. but way to go :man_pilot:
 - 🌱 I’m currently learning Backstage IDP
 
- [[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "//linkedin.com/in/debabrata-biswas-39415710"
+:linkedin 
