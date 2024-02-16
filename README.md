@@ -26,5 +26,5 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 Adapting GitOps is a Fun!!.. But Way To Go :man_pilot:
-- 🌱 I’m currently learning Backstage IDP
+- 🌱 Exciting learning Backstage IDP, Crossplane composition to make more reliable approach to adapt GitOps
 
